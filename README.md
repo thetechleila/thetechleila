@@ -2,7 +2,7 @@
 ___
 
 ## About Me: 
-Data Science Fellow at [The Knowledge House] [https://www.theknowledgehouse.org/technology_fellowship/] with professioanl experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success. 
+Data Science Fellow at [The Knowledge House][https://www.theknowledgehouse.org/technology_fellowship/] with professioanl experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success. 
 
 This repository contains personal & professional projects as well as technical methods I'm currently learning as I advance in the fields of data science and statistics.
 ___
