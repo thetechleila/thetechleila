@@ -15,11 +15,11 @@ ___
 ___
 ## 🪴 Currently Learning/Improving
 * ServiceNow Certified System Administrator Certification in progress
-* 🔭 working on an exploratory data analysis of a synthetic dataset of bank transactions (containing 6.3 million rows of data) with the goal of capturing fraudulent transacations while minimizing false positives
-* machine learning
-  * classification algorithms
-  * feature engineering
-  * ensemble methods
+* Working on an exploratory data analysis of a synthetic dataset of bank transactions (containing 6.3 million rows of data) with the goal of capturing fraudulent transacations while minimizing false positives
+* Machine Learning
+  * Classification Algorithms
+  * Feature Engineering
+  * Ensemble Methods
 * Statistics
 * Python
 * Advanced SQL
