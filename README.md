@@ -8,8 +8,9 @@ This repository contains personal & professional projects as well as technical m
 ___
 ##  🧰 Skills
 * **Programming Languages:** Python
+* **Data Management:** SQL
 * **Data Visualization:** Tableau, Seaborn, Matplotlib
-* **Data Manipulation:** Pandas, NumPy
+* **Data Manipulation and Machine Leaning:** Pandas, NumPy, Scikit-Learn
 * **CRM Software:** ServiceNow, Salesforce, Zoho
 * **Project Management Software:** Asana, Jira, Monday, Trello
 ___
