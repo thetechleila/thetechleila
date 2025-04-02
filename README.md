@@ -13,6 +13,7 @@ ___
 * **Data Manipulation and Machine Leaning:** Pandas, NumPy, Scikit-Learn
 * **CRM Software:** ServiceNow, Salesforce, Zoho
 * **Project Management Software:** Asana, Jira, Monday, Trello
+* **Tools:** Git, Jupyter Notebooks, VSCode
 ___
 ## 🪴 Currently Learning/Improving
 * ServiceNow Certified System Administrator Certification in progress
@@ -23,13 +24,15 @@ ___
   * Ensemble Methods
 * Statistics
 * Python
+* Advanced Microsoft Excel
 * Advanced SQL
 * Data visualizations
 * Conducting exploratory data analyses
 ___
 ## 🌟 Future Projects
 * Music Recommendation Algorithm
-
+* Group Machine Learning/Exploratory Data Analysis Project [project focus TBD]
+* Fellowship Capstone Project [project focus TBD]
 ___
 ## 💫 Future Learning
 
