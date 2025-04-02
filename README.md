@@ -39,3 +39,6 @@ ___
 * Dimensionality Reduction
 * Ensemble Methods in Machine Learning
 * Unsupervised Learning Algorithms
+___
+## 🎡 Fun Facts
+* I love playing the piano and gardening
