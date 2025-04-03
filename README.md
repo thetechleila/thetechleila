@@ -8,7 +8,7 @@ This repository contains personal & professional projects as well as technical m
 ___
 ##  🧰 Skills
 * **Programming Languages:** Python
-* **Data Management:** SQL, Microsoft Excel
+* **Data Management:** SQL (PostgreSQL, MySQL) Microsoft Excel, Google Sheets
 * **Data Visualization:** Tableau, Seaborn, Matplotlib
 * **Data Manipulation and Machine Leaning:** Pandas, NumPy, Scikit-Learn
 * **CRM Software:** ServiceNow, Salesforce, Zoho
