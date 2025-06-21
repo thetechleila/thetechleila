@@ -9,6 +9,7 @@ ___
 ## 🛫 Project(s) in Progress
 
 **Interactive NYC Public School Student Performance Dashboard**
+
 My teammates and I are analyzing the data of K-12 NYC Public School students from 2015-2024 to find patterns, trends, and insights into the effects the Covid-19 Pandemic/Lockdown had on educational outcomes. 
 
 **Our end goal** is to design a comprehensive data dashboard that provides up-to-date information on NYC Student Performance with accurate data on socio-economic and demographic factors that may negatively or positively impact education outcomes. 
