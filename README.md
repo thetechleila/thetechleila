@@ -8,19 +8,20 @@ This repository contains personal & professional projects as well as technical m
 ___
 ## 🛫 Project(s) in Progress
 
-**Interactive NYC Public School Student Performance Dashboard**
+**Interactive NYC Public High School Student Performance Dashboard**
 
-My teammates and I are analyzing the data of K-12 NYC Public School students from 2015-2024 to find patterns, trends, and insights into the effects the Covid-19 Pandemic/Lockdown had on educational outcomes. 
+My teammates and I are analyzing the data of NYC Public High School students from 2016-2024 to find patterns, trends, and insights into the effects the Covid-19 Pandemic/Lockdown had on educational outcomes across diverse student populations.
 
 **Our end goal** is to design a comprehensive data dashboard that provides up-to-date information on NYC Student Performance with accurate data on socio-economic and demographic factors that may negatively or positively impact education outcomes. 
 
 *Deliverables include:*
 
-* Comprehensive EDA of NYC K-12 Public School student demographics, chronic absenteeism, SAT & Regents scores, ELA & Math Assessment results, graduation outcomes, etc. using datasets from [NYC Open Data](https://opendata.cityofnewyork.us/)
-* Jupyter Notebook to showcase EDA
+* Comprehensive EDA of NYC Public High School student demographics, chronic absenteeism, Regents scores, graduation outcomes, etc. using datasets from [NYC Open Data](https://opendata.cityofnewyork.us/)
+* Jupyter Notebooks to showcase EDA
 * Data transformation via proper project oriented programming principles
 * ETL Pipeline creation 
 * Creation of SQL Database to store cleaned and transformed project data
+* Creation of Single Source of Truth table for usage in Tableau
 ___
 ##  🧰 Skills
 * **Programming Languages:** Python
