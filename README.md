@@ -8,7 +8,7 @@ This repository contains personal & professional projects as well as technical m
 ___
 ## 🛫 Project(s) in Progress
 
-**Interactive 2016-2024 NYC Public High School Student Performance Dashboard**
+🗽 **Interactive 2016-2024 NYC Public High School Student Performance Dashboard**
 
 My teammates and I are analyzing the data of NYC Public High School students from 2016-2024 to find patterns, trends, and insights into the effects the Covid-19 Lockdown had on educational outcomes across diverse student populations.
 
@@ -24,7 +24,7 @@ My teammates and I are analyzing the data of NYC Public High School students fro
 * Creation of Single Source of Truth table for usage in Tableau
 
 
-**Interactive 2016-2024 NYC Public K-8 Student Performance Dashboard**
+🍎 **Interactive 2016-2024 NYC Public K-8 Student Performance Dashboard**
 
 I am working on this as a companion project to the NYC Public High School analysis currently underway with my teammates.
 
