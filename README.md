@@ -30,7 +30,7 @@ I am working on this as a companion project to the NYC Public High School analys
 
 Data on NYC K-8 students from 2016-2024 will be analyzed to find trends and insights into the possible effects the Covid-19 Lockdown had on educational outcomes and other metrics throughout the diverse student population.
 
-**My end goal** is to design an in-depth data dashboard that will provide a high level look into how the various factors that may have influenced student performance, enrollment, and demographic metrics.
+**My end goal** is to design an in-depth data dashboard that will provide a high level look into how the various factors that may have influenced student performance and demographic metrics. Check out my **NYC K-8 Enrollment Dashboard** [here](https://public.tableau.com/views/NYCPublicSchoolK-8EnrollmentPrePostPandmic2015-2024/NYCK-8EnrollmentPrePostPandemic2015-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 *Deliverables include*
 
@@ -52,12 +52,7 @@ ___
 * Advanced SQL and Advanced Microsoft Excel
 * ServiceNow Certified System Administrator Certification exam preparation in progress
 * Python
-* Data Visualization via Tableau 
-* Machine Learning
-  * Classification Algorithms
-  * Feature Engineering
-  * Ensemble Methods
-  * Dimensionality Reduction & Principal Components Analysis (PCA)
+* Data Visualization via Tableau and Power BI
 * Statistics
 ___
 ## 🌟 Recently Completed Projects
