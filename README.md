@@ -61,7 +61,8 @@ ___
 * Statistics
 ___
 ## 🌟 Recently Completed Projects
-* [NYC Public School K-8 Enrollment Pre & Post Pandemic 2015-2024 - An Interactive Tableau Dashboard](https://public.tableau.com/views/NYCPublicSchoolK-8EnrollmentPrePostPandmic2015-2024/NYCK-8EnrollmentPrePostPandemic2015-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [NYC Public School K-8 Enrollment Pre & Post Pandemic 2015-2024 - _An Interactive Tableau Dashboard_](https://public.tableau.com/views/NYCPublicSchoolK-8EnrollmentPrePostPandmic2015-2024/NYCK-8EnrollmentPrePostPandemic2015-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [NYC Public High School Enrollment Pre & Post Pandemic (2015-2024) - _An Interactive Tableau Dashboard_](https://public.tableau.com/app/profile/leila.stambuli/viz/NYCPublicHighSchoolEnrollmentPrePostPandemic2015-2024/NYCPublicHighSchoolEnrollmentPrePostPandemic2015-2026)
 * [Housing Prices Predictor](https://github.com/thetechleila/Housing-Prices-Predictor)
 * [Musical Recommendation Algorithm](https://github.com/thetechleila/Music-Recommendation-Algorithm)
 ___
