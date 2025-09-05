@@ -2,7 +2,9 @@
 ___
 
 ## About Me: 
-Data Science Fellow at [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success. 
+Recent Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success. 
+
+Always on the look out and open to new professional & learning opportunities in data, especially in the healthcare, business, marketing, and sustainability spheres!
 
 This repository contains personal & professional projects as well as technical methods I'm currently learning as I advance in the fields of data analysis and statistics.
 ___
