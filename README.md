@@ -2,7 +2,7 @@
 ___
 
 ## About Me: 
-Recent Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success. 
+Recent Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success and **ServiceNow Certified System Administrator**
 
 Always on the look out and open to new professional & learning opportunities in data, especially in the healthcare, business, marketing, and sustainability spheres!
 
@@ -36,24 +36,6 @@ Take a deeper look specifically at how enrollment has changed across grade level
   
 * [NYC Public High School Enrollment Pre & Post Pandemic (2015-2024) - _An Interactive Tableau Dashboard_](https://public.tableau.com/app/profile/leila.stambuli/viz/NYCPublicHighSchoolEnrollmentPrePostPandemic2015-2024/NYCPublicHighSchoolEnrollmentPrePostPandemic2015-2026)
 
-___
-
-## 🛫 Project(s) in Progress
-
-🍎 **Interactive 2016-2024 NYC Public K-8 Student Performance Dashboard**
-
-I am finalizing this as a companion project to my existing NYC Public High School analysis project.
-
-Data on NYC K-8 students from 2016-2024 has been analyzed to find trends and insights into the possible effects the Covid-19 Lockdown had on educational outcomes and other metrics throughout the diverse student population.
-
-**My end goal** is to design an in-depth data dashboard that will provide a high level look into how the various factors that may have influenced K-8 student performance and demographic metrics. 
-
-*Deliverables include*
-
-* Detailed EDA of NYC Public K-8 student demographics, ELA (English Language Arts) & NYS Math Test scores across groups, enrollment, poverty and economic need indices using datasets from [NYC Open Data](https://opendata.cityofnewyork.us/).
-* Jupyter Notebooks to showcase EDA
-* Data transformation using Excel/Numbers 
-* Creation of processed dataset(s) for usage in Tableau
 ___
 ##  🧰 Skills
 * **Programming Languages:** Python
