@@ -11,7 +11,7 @@ Always on the look out and open to new professional & learning opportunities in 
 This repository contains personal & professional projects as well as technical methods I'm currently learning as I advance in the fields of data analysis and statistics.
 ___
 
-## Recently Completed Project(s)
+## Recently Completed Projects
 
 🗽 **Interactive 2016-2024 NYC Public High School Student Performance Analysis and Dashboard**
 
