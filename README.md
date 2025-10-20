@@ -2,7 +2,9 @@
 ___
 
 ## About Me: 
-Recent Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success and **ServiceNow Certified System Administrator**
+Recent Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success.
+
+I'm also a ServiceNow System Administrator.
 
 Always on the look out and open to new professional & learning opportunities in data, especially in the healthcare, business, marketing, and sustainability spheres!
 
@@ -11,7 +13,7 @@ ___
 
 ## Recently Completed Project(s)
 
-🗽 **Interactive 2016-2024 NYC Public High School Student Performance Dashboard**
+🗽 **Interactive 2016-2024 NYC Public High School Student Performance Analysis and Dashboard**
 
 My teammates and I have analyzed the data of NYC Public High School students from 2016-2024 to find patterns, trends, and insights into the effects the Covid-19 Lockdown had on educational outcomes across diverse student populations.
 
@@ -28,9 +30,9 @@ My teammates and I have analyzed the data of NYC Public High School students fro
 
 **Check out the Interactive Tableau Dashboard [here](https://public.tableau.com/app/profile/rosselyn.oliva/viz/HighSchoolStudentPerformanceinNYC/Dashboard1) and take a look out the [Repository](https://github.com/thetechleila/NYC-Public-High-School-Student-Performance-2016-to-2024) for further details.**
 
-🏫 **Interactive NYC Public High School and K-8 Enrollment from 2015-2024 Dashboards**
+🏫 **Interactive NYC Public High School and K-8 Enrollment from 2015-2024 Analyses & Dashboards**
 
-Take a deeper look specifically at how enrollment has changed across grade level and various demographic groups compared with the rates of poverty across NYC's Five Boroughs with the two interactive Tableau Dashboards I've created below:
+Take a deeper look specifically at how enrollment has changed across grade level and various demographic groups compared with the rates of poverty across NYC's Five Boroughs with the two interactive Tableau Dashboards I've created below after thorough research into the data:
 
 * [NYC Public School K-8 Enrollment Pre & Post Pandemic (2015-2024) - _An Interactive Tableau Dashboard_](https://public.tableau.com/views/NYCPublicSchoolK-8EnrollmentPrePostPandmic2015-2024/NYCK-8EnrollmentPrePostPandemic2015-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
@@ -42,13 +44,12 @@ ___
 * **Data Management:** SQL (PostgreSQL, MySQL) Microsoft Excel, Google Sheets
 * **Data Visualization:** Tableau, Seaborn, Matplotlib
 * **Data Manipulation and Machine Leaning:** Pandas, NumPy, Scikit-Learn
-* **CRM Software:** ServiceNow System Admin, Salesforce, Zoho, ZenDesk
+* **CRM Software:** ServiceNow (System Administrator), Salesforce, Zoho, ZenDesk
 * **Project Management Software:** Asana, Jira, Monday, Trello
 * **Tools:** Git, Jupyter Notebooks, VSCode
 ___
 ## 🪴 Currently Learning/Improving
 * Advanced SQL and Advanced Microsoft Excel
-* ServiceNow Certified System Administrator Certification exam preparation in progress
 * Python
 * Data Visualization via Tableau and Power BI
 * Statistics
