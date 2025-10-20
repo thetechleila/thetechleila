@@ -42,7 +42,7 @@ ___
 * **Data Management:** SQL (PostgreSQL, MySQL) Microsoft Excel, Google Sheets
 * **Data Visualization:** Tableau, Seaborn, Matplotlib
 * **Data Manipulation and Machine Leaning:** Pandas, NumPy, Scikit-Learn
-* **CRM Software:** ServiceNow, Salesforce, Zoho, ZenDesk
+* **CRM Software:** ServiceNow System Admin, Salesforce, Zoho, ZenDesk
 * **Project Management Software:** Asana, Jira, Monday, Trello
 * **Tools:** Git, Jupyter Notebooks, VSCode
 ___
