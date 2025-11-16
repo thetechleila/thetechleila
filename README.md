@@ -63,6 +63,8 @@ Submission for the [Synchrony Skills Academy](https://www.synchronyskillsacademy
 
 This project aimed to solve a database and documentation consolidation issue occurring within a local nonprofit through merging existing physical and digital documents using a composite ID as well as address website accessibility and limitations utilizing AI tools.
 
+* Here's the [repository](https://github.com/thetechleila/Womens-Mentoring-Network-AI-Modernization/tree/main)
+
 * **Read more in depth project details from our team's proposal [here](https://docs.google.com/document/d/1x1yIWhGwszDX7PgCn4ofVuyVAkwN8kweNgA6oJSXPPk/edit?usp=sharing)** ️
   
 * **Check out the project presentation [here](https://docs.google.com/presentation/d/1da-bEGELYlEqdavJ-qZZzi6ONnhRgpwwUqKwI5B_COM/edit?usp=sharing)** 
