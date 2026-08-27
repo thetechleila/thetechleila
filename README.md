@@ -9,6 +9,8 @@ Always on the look out and open to new professional & learning opportunities in 
 
 This repository contains personal & professional projects as well as technical methods I'm learning at the moment as I advance in the fields of data analysis, statistics, & more.
 
+*✨Highlights✨*
+
 * Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success.
 
 * I'm also a Certified ServiceNow System Administrator 
