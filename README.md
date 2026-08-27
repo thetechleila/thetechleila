@@ -2,13 +2,16 @@
 ___
 
 ## About Me: 
-Recent Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success.
 
-I'm also a ServiceNow System Administrator.
+I'm currently an Infrastructure Analyst for a global consumer packaged goods brand & making strides towards improving my technical skills outside of work the fun way - with projects, challenges and whatever piques my interests.
 
-Always on the look out and open to new professional & learning opportunities in data, especially in the healthcare, business, marketing, and sustainability spheres!
+Always on the look out and open to new professional & learning opportunities in data, especially in the healthcare, supply chain, marketing, and sustainability spheres!
 
-This repository contains personal & professional projects as well as technical methods I'm currently learning as I advance in the fields of data analysis and statistics.
+This repository contains personal & professional projects as well as technical methods I'm learning at the moment as I advance in the fields of data analysis, statistics, & more.
+
+* Graduate of [The Knowledge House](https://www.theknowledgehouse.org/technology_fellowship/) x Synchrony Skills Academy Data Science Fellowship with professional experience in Information Technology (IT), Public Health, Non-Profits, and User/Customer Success.
+
+* I'm also a Certified ServiceNow System Administrator 
 ___
 
 ##  🧰 Skills
@@ -17,6 +20,8 @@ ___
 * **Data Visualization:** Tableau, Seaborn, Matplotlib
 * **Data Manipulation and Machine Leaning:** Pandas, NumPy, Scikit-Learn
 * **CRM Software:** ServiceNow (System Administrator), Salesforce, Zoho, ZenDesk
+* **ITSM Platforms:** Harmony IO, Serval, FreshService
+* **MDM Software:** Microsoft Intune, Iru (formerly Kadji)
 * **Project Management Software:** Asana, Jira, Monday, Trello
 * **Tools:** Git, Jupyter Notebooks, VSCode
 ___
